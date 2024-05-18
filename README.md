@@ -19,12 +19,11 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program; if not, see <http://www.gnu.org/licenses/>.
+along with this program; if not, see <http://www.gnu.org/licenses/>. 
 
-Xingyu Liao, Associate Professor, School of Computer Science,
-Northwestern Polytechnical University (NPU), Chang'an  Campus, Xi'an  Shaanxi, 710072,  P.R. China.
+Xingyu Liao, Associate Professor, School of Computer Science, 
+Northwestern Polytechnical University (NPU), Chang'an  Campus, Xi'an  Shaanxi, 710072,  P.R. China. 
 E-mail:  liaoxingyu@nwpu.edu.cn
-URL: https://teacher.nwpu.edu.cn/2023010072
 
 
 Installation and operation of GSET 
