@@ -1,12 +1,12 @@
 Latest Version
 ==============
-Please see the latest version of GSET:https://github.com/BioinformaticsCSU/GSET
+Please see the latest version of GSET:https://github.com/Xingyu-Liao/GSET
 
 
 License
 =======
 
-Copyright (C) 2019 Jianxin Wang(jxwang@mail.csu.edu.cn), You Zou(zouyou@csu.edu.cn)
+Copyright (C) 2024 Xingyu Liao(liaoxingyu@nwpu.edu.cn), Chaoyun Liu(superchaoyun@126.com)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
